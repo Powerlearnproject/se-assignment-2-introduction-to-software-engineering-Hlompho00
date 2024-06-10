@@ -1,0 +1,190 @@
+SOFTWARE ENGINEERING - is the branch of computer science that deal with the design, development, testing, and maintanance of software applications.
+The difference between Software Engineering and traditional programming is that Software Engineering involves a more structured and organised software development
+process that includes requirements engineering, design, coding, testing, and maintanance. In contrast, software development may be a less structured process that involves writing code, testing and deploy the software. 
+Software Developmwnt Life Cycle (SDLC) is a process for planning, creating, testing, and deploying a software system. The system development life cycle framework provides a sequence of activities for system designers and developers to follow. It consists of a set of steps or phases in which each phase of the SDLC uses the results of a previous one.
+The SDLC adheres to important phases that are essential for developers, such as planning, analysis, design and implementation. Like anything is manufactured on an assembly line, an SDLC aims to produce high-quality systems that meet or exceed customer expectations, based on customer requirements, by delivering systems that move through each clearlydefined phase, within scheduled time frames and cost estimates.
+AGILE - is a flexible and interative approach that enables teams to quickly adapt to changing project requirements and deliver high-quality results within shorter timeframes. It’s very often used in software development.
+Agile methodologies are about teamwork, customer satisfaction, constant refinement, and breaking big projects into bite-sized pieces. By prioritizing collaboration and communication, 
+agile processes enable teams to pivot and respond to evolving customer needs while maintaining a high level of flexibility. The focus on continuous improvement means that teams are always seeking ways to optimize their processes and deliver the best possible results. Ultimately, the agile methodology is about producing better outcomes through a more streamlined and adaptive approach.
+WATERFALL MODELS - The waterfall project management method is a linear, step-by-step approach that's ideal for projects with a clear scope and predictable timeline.
+ It involves rigorous planning upfront to ensure that the project stays on track, with progress tracked closely and issues addressed promptly. 
+The Waterfall model usually includes five project management stages (or phases): initiation, planning, execution, monitoring/control, and closing.
+While this approach is effective for straightforward projects that require minimal adaptation or creativity, it may not be suitable for more complex initiatives that demand a more flexible and dynamic approach.
+10 DIFFERENCES BETWEEN WATERFALL AND AGILE
+Here are 10 critical differences between the waterfall and agile project management methods:
+1. Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
+2. Planning: In waterfall, planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront. In contrast, agile planning is a continuous process throughout the project's life cycle, with adjustments made as new information or requirements emerge.
+3.Scope: The waterfall methodology generally discourages changes to the project's scope, even with change requests used correctly. This is because the methodology requires an extensive amount of time spent in the beginning trying to get the plan right, which can make changes more costly after the project has begun. On the other hand, agile is more adaptable to changes in scope, with the development team able to adjust quickly as requirements change.
+4. Time frames: The waterfall method is designed for long-term projects with predetermined timelines. The project is completed linearly, with each phase dependent on the previous one. Agile, however, uses short iterations to deliver value rapidly, allowing teams to adjust plans over time and achieve shorter time frames.
+5. Speed: Waterfall projects tend to take longer because all requirements must be agreed upon before development can begin. Agile projects, on the other hand, are usually delivered more rapidly than waterfall projects due to the iterative development cycles used in agile.
+6. Delivery: Agile allows for quick delivery of projects with shorter lifecycles, as each iteration delivers a workable product. Waterfall requires the completion of all tasks before any work can be released.
+7. Flexibility: Agile encourages teams to respond quickly and adaptively to changes during the development process. Waterfall is less flexible and resistant to change once the project's scope has been defined.
+8. Testing: Testing is essential to the agile and waterfall methodologies, but the approaches differ significantly. Agile emphasizes incremental testing to identify and resolve issues throughout the development process. In waterfall, testing is usually done at specific milestones, often towards the end of the project.
+9. Documentation: Agile relies on minimal documentation, focusing on self-organizing teams and collaboration. Waterfall, in contrast, relies heavily on documenting each step in detail to ensure that all team members are on the same page.
+10. Communication: Agile emphasizes informal communication, with frequent interactions between individuals or small groups of stakeholders. In waterfall, communication is more formal, with detailed communication plans and progress reports shared across multiple stakeholders.d dynamic approach.
+5 EXAMPLE SCENARIOS WHERE YOU CAN BENEFIT FROM AGILE
+Diving further, here are some specific scenarios, types of projects, and environments that often benefit from an agile approach to project delivery:
+-Technical projects: Agile provides teams with an organized approach to developing complex software or products. Multiple teams can collaborate orderly, without a 45-person planning or re-planning meeting.
+-Creative projects: Projects that involve a lot of creative problem-solving benefit from an agile approach as it allows for more experimentation and innovative thinking.
+-Product innovation and development: Organizations that need to stay ahead of their competition by developing new products or improving existing ones will benefit from an agile workflow, as it allows team members to have increased flexibility throughout the process.
+-Startups: They often need to deliver products or services with limited resources quickly. Agile methods allow them to develop and implement ideas more rapidly, allowing for rapid prototyping and iteration on the fly.
+-Rapid prototyping: Agile can be used to quickly prototype and deliver an end product with high quality without spending too much time on planning, sourcing, approvals, etc
+SCENARIO WHERE WATERFALL MIGHT BE PREFFERED
+I like to think of Agile as “Waterfall in small doses.”
+Software is too complex and unpredictable to design entirely upfront, but when using Agile to break things down into subtasks, starting a subtask should include some thought to design, like a plan of attack.
+Another desirable time for Waterfall is in overall design strategy where foundational items (or things that cut across functional domains) must be chosen, because these things will be very difficult or near impossible to change later.
+ For example: memory pools, rendering engines, data pipelines, scenegraph architecture, localization, logging APIs, adding introspection to a C/C++ project, interface classes, delegate systems, whether to use smart pointers or not, etc.
+A mistake I see some Agile managers make is to think the “move fast and break things” approach is applicable at all times and scales — developers should be constantly cranking out code and if there’s a problem, it can be debugged later.
+ Either way, the keyboards are constantly getting tapped on, which must mean productivity.
+Not only does this fail, but it’s in direct opposition to the nature of intelligence, which is to model the future. With the ability to imagine multiple futures and to select the one which causes the least grief, true progress is made. 
+Agile is not wrong anymore than Waterfall — the truth is in the middle, that they need each other.
+REQUIREMENTS ENGINEERING - Requirements engineering is the process of eliciting, analyzing, documenting, and managing the requirements for a software system. It involves understanding the needs of 
+stakeholders and translating them into a set of clear and concise requirements that can be used as the basis for system design and development.
+PROCESS OF REQUIREMENTS ENGINEERING
+-Elicitation: Gathering requirements from stakeholders through interviews, workshops, and observations.
+-Analysis: Examining and organizing the elicited requirements to ensure they are complete, consistent, and feasible.
+-Specification: Documenting the requirements in a clear and unambiguous manner using various techniques such as use cases, user stories, and requirement documents.
+-Validation: Ensuring that the specified requirements meet the needs of the stakeholders and are aligned with the overall goals of the software system.
+-Management: Managing changes to the requirements throughout the software development lifecycle.
+IMPORTANCE IN THE SOFTWARE DEVELOPMENT LIFECYCLE
+Foundation for Development: Clear and well-defined requirements serve as the foundation for the design, implementation, and testing of the software system.
+Customer Satisfaction: Meeting the specified requirements increases the likelihood of delivering a system that satisfies the needs of the stakeholders.
+Cost and Time Efficiency: Properly defined requirements reduce the likelihood of rework and changes later in the development process, saving time and resources.
+Risk Mitigation: Identifying and addressing requirements early helps mitigate the risk of delivering a system that does not meet the stakeholders' needs.
+SOFTWARE DESIGN PRINCIPLES
+Software design principles are a set of guidelines that help software developers create maintainable, scalable, and efficient software systems. Some key principles include:
+SOLID Principles: A set of five principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) aimed at making software designs more understandable, flexible, and maintainable.
+DRY (Don't Repeat Yourself): Encourages the avoidance of duplication in code, promoting reusability and maintainability.
+KISS (Keep It Simple, Stupid): Emphasizes simplicity in design, avoiding unnecessary complexity that can lead to confusion and errors.
+YAGNI (You Ain't Gonna Need It): Advises against adding functionality until it is necessary, preventing over-engineering and unnecessary complexity.
+Separation of Concerns: Encourages dividing a software system into distinct sections, each addressing a separate concern, such as user interface, data storage, and business logic.
+Adhering to these principles can lead to software systems that are easier to understand, maintain, and extend, ultimately contributing to the overall quality of the software.
+MODULARITY IN SOFTWARE DESIGN
+Modularity in software design refers to the practice of breaking down a system into smaller, manageable, and independent modules or components. Each module has a well-defined function and interface, and can be developed, tested, and maintained independently.
+HOW DOES MODULARITY IMPROVE THE MAINTAINABITITY AND SCALABILITY OF SOFTWARE SYSTEM
+Maintainability: Modularity improves maintainability by isolating changes. When a module needs to be updated or fixed, the impact is limited to that specific module, reducing the risk of unintended consequences in other parts of the system.
+Scalability: Modularity facilitates scalability by allowing for easier integration of new features or components. New modules can be added without affecting existing ones, making it easier to extend the functionality of the system.
+Reusability: Modular design promotes reusability of code. Once a module is developed and tested, it can be reused in other parts of the system or in different projects, saving time and effort.
+Collaboration: Modularity enables parallel development and collaboration. Different teams or developers can work on different modules simultaneously, as long as they adhere to the defined interfaces, leading to faster development cycles.
+Debugging and Testing: Smaller, independent modules are easier to debug and test, as the scope of potential issues is limited to the specific module, rather than the entire system.
+Conclusion
+In summary, modularity in software design enhances maintainability, scalability, reusability, collaboration, and facilitates debugging and testing. 
+It is a fundamental principle in creating robust and flexible software systems.
+LEVELS OF SOFTWARE TESTING
+-Unit Testing: This involves testing individual components or units of the software in isolation. It is typically performed by developers and focuses on the smallest testable parts of the code.
+-Integration Testing: This level of testing involves combining individual units and testing them as a group to ensure they work together as expected. It verifies the interactions between integrated units.
+-System Testing: This level of testing evaluates the complete and integrated software product. It tests the system as a whole against the specified requirements.
+-Acceptance Testing: This is the final level of testing and is performed to determine whether the software is ready for release. It is often conducted by end-users or stakeholders to validate that the system meets their requirements.
+IMPORTANCE OF TESTING IN SOFTWARE DEVELOPMENT
+Testing is crucial in software development for several reasons:
+1. Identifying Defects: Testing helps in identifying defects or bugs in the software, allowing them to be fixed before the product is released.
+2. Ensuring Quality: It ensures that the software meets the specified requirements and functions as intended, leading to a higher quality product.
+3. Risk Mitigation: Testing helps in mitigating the risks associated with software failures, which can have financial, legal, and reputational implications.
+4. Customer Satisfaction: Thorough testing leads to a more reliable and stable product, which in turn leads to higher customer satisfaction.
+5. Cost-Effectiveness: Identifying and fixing defects early in the development process is more cost-effective than addressing them after the product has been released.
+In summary, 
+testing is crucial in software development as it helps in delivering a high-quality, reliable, and user-friendly product while minimizing risks and costs associated with software failures.
+VERSION CONTROL SYSTEM
+Version control refers to the process of tracking and managing changes to digital assets over time. There are many ways to implement version control, including simply adhering to a file naming and organizational process. However, the discussion of version control typically refers to version control software/version control systems. These are tools that are designed to help teams work in parallel and prevent loss of important work.
+EXAMPLES OF POPULAR CONTROL SYSTEMS AND THEIR FEATURES
+1. GitHub
+GitHub helps software teams to collaborate and maintain the entire history of code changes. You can track changes in code, turn back the clock to undo errors and share your efforts with other team members.It is a repository to host Git projects. For those wondering what is Git? It is an open source version control system that features local branching, multiple workflows, and convenient staging areas. Git version control is an easy to learn option and offers faster operation speed.
+2. GitLab
+GitLab comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code. You can access all the aspects of a project, view code, pull requests, and combine the conflict resolution.
+3. Beanstalk
+Beanstalk is an ideal option for those who need to work from remote places. This software is based on browser and cloud, allowing users to code, commit, review and deploy using a browser.It can be integrated with messaging and email platforms for efficient collaborations related to codes and updates. It supports both Git and SVN and comes with built-in analytics features. For security, it leverages encryption, two-factor authentication, and password protection functionalities.
+4. PerForce
+Perforce delivers the version control capabilities through its HelixCore. The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows. It is a security solution that protects the most valuable assets. HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
+5. Apache Subversion
+Apache Subversion is another open source version control system, which was founded by CollabNet a couple of decades ago. Both open source arena and enterprises consider it a reliable option for valuable data. Key features of Subversion include inventory management, security management, history tracking, user access controls, cheap local branching, and workflow management.
+6. AWS CodeCommit
+AWS CodeCommit is a managed version control system that hosts secure and scalable private Git repositories. It seamlessly connects with other products from Amazon Web Services (AWS) and hosts the code in secured AWS environments. Hence, it is a good fit for the existing users of AWS. AWS integration also provides access to several useful plugins from AWS partners, which helps in software development.
+7. Microsoft Team Foundation Server
+Developed by Microsoft, the Team Foundation Server is an enterprise-grade tool to manage source code and other services that need versioning. It can keep track of work items to find defects, requirements, and scenarios in a project. It comes with several unique features like Team Build, data collection and reporting, Team Project Portal, Team Foundation Shared Services, etc.
+8. Mercurial
+Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface. Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
+9. CVS Version Control (Concurrent Versions System)
+CVS is one of the oldest version control system and is a well-known tool among both commercial and open source developers. It allows you to check out the code you are planning to work on, and check-in the changes. It has the capability to handle projects with multiple branches so that teams can merge their code changes and contribute unique features to the project.Since CVS is here for a long time now, it is the most mature version control software.
+10. Bitbucket
+Bitbucket is a part of the Atlassian software suite, so it can be integrated with other Atlassian services including HipChat, Jira, and Bamboo. The main features of Bitbucket are code branches, in-line commenting and discussions, and pull requests. It can be deployed on a local server, data center of the company, as well as on the cloud. Bitbucket allows you to connect with up to five users for free. This is good because you can try the platform for free before deciding to purchase.
+A SOFTWARE PROJECT MANAGER  plays a crucial role in overseeing the planning, execution, and delivery of software projects. 
+They are responsible for ensuring that the project meets its objectives within the constraints of time, budget, and quality.
+KEY RESPONSIBILITIES
+-Project Planning: Developing project plans, defining scope, creating schedules, and allocating resources.
+-Team Management: Leading and managing the project team, assigning tasks, and ensuring effective communication.
+-Risk Management: Identifying and mitigating potential risks that could impact project success.
+-Stakeholder Communication: Keeping stakeholders informed about project progress, issues, and changes.
+-Quality Assurance: Ensuring that the software meets quality standards and adheres to requirements.
+-Budget and Resource Management: Monitoring project expenses and managing resources efficiently.
+CHALLENGES FACED
+Scope Creep: Managing changes in project scope without affecting the project timeline and budget.
+Resource Allocation: Balancing the allocation of resources to meet project demands.
+Communication: Ensuring effective communication among team members, stakeholders, and other project participants.
+Risk Management: Identifying and addressing potential risks that could impact project delivery.
+Time Management: Meeting project deadlines and milestones in the face of unexpected challenges.
+In summary, the software project manager plays a critical role in ensuring the successful delivery of software projects 
+by effectively managing resources, risks, and communication while adhering to project constraints.
+SOFTWARE MAINTANANCE - refers to the process of modifying and updating a software system after it has been delivered and is in use. This process aims to keep the software operational, up-to-date, and aligned with the changing needs and requirements of its users and the organization.
+TYPES OF MAINTANANCE ACTIVITIES
+-Corrective Maintenance: Involves fixing errors, bugs, or defects in the software to restore it to a working state.
+-Adaptive Maintenance: Involves modifying the software to accommodate changes in the environment, such as hardware or software platform upgrades.
+-Perfective Maintenance: Involves enhancing the software's functionality, performance, or usability to meet evolving user needs and expectations.
+-Preventive Maintenance: Involves making changes to the software to prevent future issues or to improve its maintainability.
+MAINTANANCE IS AN ESSENTIAL PART OF THE SOFTWARE LIFECYCLE FOR SEVERAL REASONS :
+-Bug Fixing: It ensures that errors and defects are addressed promptly, minimizing disruptions to users and the business.
+-Adaptation to Change: It allows the software to evolve and remain relevant in the face of changing technology, user requirements, and business needs.
+-Enhanced Performance: Through perfective maintenance, the software can be optimized for better performance and user experience.
+-Longevity: Proper maintenance extends the lifespan of the software, maximizing the return on investment and reducing the need for frequent replacements.
+-Cost-Effectiveness: Regular maintenance can prevent costly system failures and the need for major rework, saving time and resources in the long run.
+In summary,
+ software maintenance is crucial for ensuring that software remains effective, efficient, and aligned with the evolving needs of its users and the organization.
+ETHICAL ISSUES THAT SOFTWARE ENGINEERS MIGHT FACE
+1. Privacy Concerns: Software engineers may face ethical dilemmas related to the collection and use of personal data.
+2. Security Vulnerabilities: Developing software with known security flaws can pose ethical issues, especially if it leads to data breaches or other security incidents.
+3. Bias and Discrimination: Creating algorithms or systems that exhibit bias or discrimination can raise ethical concerns.
+4. Intellectual Property: Issues related to intellectual property rights, such as unauthorized use of copyrighted code or software, can be ethically challenging.
+5. Transparency and Accountability: Software engineers may face ethical dilemmas related to the transparency and accountability of their work, especially in cases where the impact of the software is significant.
+Adhering to Ethical Standards
+SOFTWARE ENGINEERS CAN ENSURE THEY ADHERE TO ETHICAL STANDARDS IN THEIR WORKPLACE BY:
+-Following Ethical Guidelines: Adhering to established ethical guidelines and standards set forth by professional organizations and regulatory bodies.
+-Ethical Decision-Making: Engaging in ethical decision-making processes when faced with dilemmas, considering the potential impact of their work on various stakeholders.
+-Regular Training and Education: Staying informed about ethical issues in the field through continuous training and education.
+-Collaboration and Communication: Engaging in open communication and collaboration with colleagues and stakeholders to address ethical concerns and ensure ethical practices.
+-Ethical Code Implementation: Implementing ethical codes and standards within the software development process, such as incorporating privacy protections and security measures from the outset.
+-Ethical Review Processes: Instituting ethical review processes for software development projects to identify and address potential ethical issues early in the development lifecycle.
+REFERENCES
+Authors : Nilesh Kadivar Marketing Manager at Techuz
+Lyndsey Scott Writer for Beamery Hacking Talent, Senior Software Engineer @Beamery
+ Donald Gotterbarn East Tennessee State University
+Amr Saafan  Software Consultant|Project Manager|
+Marina Guldenpfennig Computer Programmer|Software Tester|Technical Writer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
